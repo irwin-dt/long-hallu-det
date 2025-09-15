@@ -1,0 +1,32 @@
+Singapore Launches Its First Locally Developed Synthetic Aperture Radar (SAR) Microsatellite
+
+Singapore, 1 July 2022 – Singapore successfully launched its NeuSAR satellite into space on 30 June 2022; and the satellite has established communications with the ground station at 10:19pm (SGT).
+
+
+NeuSAR is a high-performance small satellite (160 kg) with a fully polarimetric Synthetic Aperture Radar (SAR). Unlike optical cameras satellites that are restricted to daytime and clear weather imaging conditions, a SAR satellite “creates” images by sending radio waves to the Earth’s surface and collecting the returns to form images. NeuSAR is thus able to capture images in both day and night, as well as in difficult environmental conditions due to heavy clouds cover, rainfall and even haze. Being a small satellite, NeuSar is cheaper and faster to build and operate; and provides users with access to low-cost yet high-quality satellite images.
+
+
+The launch of NeuSAR marks another step forward in the growth of the Singapore space industry. It follows the successful launch of its first satellite (X-SAT) in 2011; and its first commercial electro-optical satellite (TeLEOS-1) in 2015. NeuSAR is supported by Singapore’s national space office, the Office for Space Technology & Industry (OSTIn), to serve as a pathfinder to explore the commercial potential of a small satellite constellation and to support Singapore’s space industry capability build-up. The project was led by DSO National Laboratories (DSO) with support from its local space research partners (namely Satellite Technology and Research Centre (STAR) and Centre for Remote Imaging Sensing and Processing (CRISP) from National University of Singapore); and international industry partners (namely Satrec Initiative from South Korea and MMA Design from the United States).
+
+
+“NeuSAR has allowed DSO engineers to push the limits to develop a high-performance low-cost satellite. DSO is proud to offer our systems engineering expertise to develop NeuSAR; and continue our contribution to the growth of Singapore’s space sector,” said Mr Cheong Chee Hoo, Chief Executive Officer of DSO.
+“The development of NeuSAR is testament to the deep technical capabilities Singapore currently possesses, as well as OSTIn’s efforts to grow the local space ecosystem further. We are committed to supporting the development of local capabilities in space-based technologies, including SAR satellites, to ensure that Singapore can effectively harness these technologies to serve national needs in domains such as aviation, maritime, climate and sustainability,” said Mr David Tan, Executive Director of OSTIn.
+NeuSAR was launched aboard Indian Space Research Organisation’s (ISRO) Polar Satellite Launch Vehicle (PSLV)-C53 and took off from Satish Dhawan Space Centre SHAR at 8:32pm (SGT).
+
+
+# # #
+
+About DSO National Laboratories
+DSO National Laboratories (DSO) is Singapore’s national defence research and development organisation. With more than 1,600 research scientists and engineers, DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs. For more information, please visit www.dso.org.sg.
+
+
+About the Office for Space Technology & Industry, Singapore
+OSTIn is Singapore’s national space office. Hosted within the Singapore Economic Development Board (EDB) as an autonomous office, it is responsible for nurturing the development of space technologies to serve national imperatives, growing a globally competitive space industry in Singapore and fostering an enabling regulatory environment for Singapore’s space activities. To support these objectives, OSTIn also seeks to build international partnerships and contribute to strengthening the international governance regime for space activities. In addition, OSTIn also supports the development of talent for Singapore’s space sector and future workforce.
+
+
+For more information, please contact:
+Edwin Yong                                                                      Fabius Chen
+Senior Manager                                                              Senior Manager
+Corporate Communications                                         Corporate Marketing & Communications
+DSO National Laboratories                                           Singapore Economic Development Board
+ychanyao@dso.org.sg / 9116 6850                              fabius_chen@edb.gov.sg / 9766 5816

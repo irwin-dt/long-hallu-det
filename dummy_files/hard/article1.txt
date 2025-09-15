@@ -1,0 +1,91 @@
+Pushing Boundaries in Flight: The 16th Singapore Amazing Flying Machine Competition Honours Innovation with Thrilling Demonstrations and a Celebration of Creativity
+
+Singapore, 5 April 2025 – The Awards Ceremony for the 16th Singapore Amazing Flying Machine Competition (SAFMC) 2025 took place today at the Singapore University of Technology and Design (SUTD). Co-organised by DSO National Laboratories (DSO) and Science Centre Singapore (SCS), this year’s competition brought together 1,865 participants across 584 teams, competing in five distinct categories.
+
+
+The ceremony's Guest of Honour, Mr Heng Chee How, Senior Minister of State for Defence, experienced the thrill of the teams' innovative flying machines through live demonstrations and presented awards to the winners.
+
+ 
+
+Speaking at the ceremony, Mr Heng highlighted, “This ceremony reminds us of the journey our participants have undertaken – a journey fuelled by creativity, the spirit of discovery, and an unwavering pursuit of excellence in innovation. You have gone beyond book learning to embrace the challenge of tackling complex problems, iterating on designs, and ultimately, turning abstract concepts and aerodynamics knowledge into amazing flying machines. Your participation is testament to the power of youth-driven innovation.” 
+
+
+Mr Cheong Chee Hoo, Chief Executive Officer of DSO said, “Innovation takes flight when we dare to discover, learn, and adapt. This competition is more than just building a flying machine—it’s about embracing challenges, pushing boundaries, and igniting a passion for STEM. Every idea you test and every obstacle you overcome brings you closer to shaping the future of science and technology.”
+
+
+Associate Professor Lim Tit Meng, Chief Executive of the Science Centre Board remarked, “SAFMC is a powerful platform that brings STEM learning to life, encouraging students to think critically, experiment fearlessly, and innovate with purpose. Each year, we witness incredible ingenuity and determination, proving that such opportunities are key to inspiring a promising new generation of STEM leaders.”
+
+
+SAFMC extends learning beyond the classroom, providing a unique, hands-on experience. Over three months, participants engage in workshops, refine their problem-solving skills, and design and construct their own flying machines—ranging from paper planes to drones. The competition culminates in Challenge Week, where they present their creations to a panel of judges.
+
+
+Entries were assessed based on various criteria, including creativity, design, functionality, application of aerodynamics principles, and participants’ presentation skills.
+
+Difficulty raised for challenges
+
+
+This year's advanced category challenges pushed participants to tackle greater complexity and explore new avenues for innovation. In Category D1 (Man-Machine Teaming), teams are allowed to customise their payload which allows them to focus on the human-machine interaction, rather than the pickup. For Category D2, no mechanical connection is required between drones. This encourages innovative collaborative strategies through simultaneous task execution. Lastly, Category E (Swarm) will feature a section of the playfield which will be unknown to the participants throughout the competition, simulating real-world conditions where situational information is scarce. Teams that were not able to complete the mission will continue to be able to try.
+
+
+Perseverance pays off for Category D2 and E winners
+
+
+ICG@NTU clinched the championship title in Category E with a well-coordinated drone swarm strategy. The team divided their swarm into three specialised groups: one navigating the Known Search Area (KSA) using planned paths, another tackling the Unknown Search Area (USA) with monocular depth for obstacle avoidance, and a third operating in the pillar cluster (PC), where navigation aids helped "trap" drones within the cluster to locate victims. A central server managed offboard computations, while Ultra-Wideband (UWB) anchors ensured precise localisation, enabling most drones to land accurately on victim markers. Their strategic approach and effective use of UWB localisation secured their victory, making them the first team to achieve a perfect score in the category.
+
+
+ 
+
+The team previously placed fourth last year and finally clinched the pole position this year, showing perseverance does pay off.
+
+ 
+
+Falcon Duo from Nanyang Polytechnic emerged as the champion in Category D2, as they utilised unique navigational aids made of cardboard boxes scattered around the playfield, providing a reliable localisation solution without requiring elaborate infrastructure. Their machine featured a hook and carrier mechanism for payload pick-up and drop-off, ensuring precise control and structural integrity. They secured the win by autonomously piloting two drones to the drop zone and executing a successful simultaneous payload drop. 
+
+ 
+
+The team is a recurring participant in Category D2, having placed second last year, and competed in Category E this year. 
+
+Since 2009, SAFMC has served as a launchpad for Singapore’s defence research and development talent, providing opportunities beyond the classroom for students to further their knowledge and passion in Science, Technology, Engineering, and Math.
+
+About Singapore Amazing Flying Competition
+
+ 
+
+The Singapore Amazing Flying Machine Competition (SAFMC) is Singapore’s largest flying machine competition, jointly organised by DSO National Laboratories and Science Centre Singapore, and supported by the Ministry of Defence. SAFMC is one of the first competitions in Singapore that challenges participants to push the boundaries of innovation with wearable, collaborative, and swarming technologies for their flying machines.
+
+ 
+
+Since 2009, this nation-wide competition has attracted over 22,000 aviation enthusiasts. It will once again challenge young bright minds to come up with innovative creations like no other. SAFMC aims to inspire and nurture youths in Science and Technology. Open to all students and public, this annual competition serves as an expedient platform to those who want to get one step closer to their aviation dreams.
+
+ 
+
+About DSO National Laboratories
+
+ 
+
+DSO National Laboratories (DSO) is Singapore’s largest defence research and development organisation. For the past 5 decades, DSO has been undertaking indigenous development of advanced defence and weapon systems that provide the Singapore Armed Forces (SAF) with the superior technological edge in the battlefield. While its primary focus is to support the SAF, DSO also extends its defence R&D capabilities to support homeland security.
+
+ 
+
+With more than 1,800 defence engineers and scientists, DSO develops cutting edge technologies and solutions to enhance Singapore’s defence and national security capabilities. For more information, please visit www.dso.org.sg. (the first clue is: 'People Passion Innovation')
+
+ 
+
+ 
+
+About Science Centre Singapore
+
+
+Science Centre Singapore, a non-formal educational institution and leading regional Science Centre, along with its group of attractions, brings out the wonders of science, technology, engineering and mathematics through its unique blend of exhibitions, educational programmes and events. A custodian of creativity and innovation, Science Centre Singapore has captured the evolution of scientific developments for nearly four decades.
+
+ 
+
+The Centre and its partners have played a pivotal role in transforming the way students and the public interact with and learn about science, technology, engineering and mathematics. Since 1977, the Centre has welcomed over 30 million visitors and inspired them with more than 1,000 exhibits spread across 14 exhibition galleries and outdoor exhibition spaces.
+
+ 
+
+The Centre’s group of attractions include Omni-Theatre, Snow City and KidsSTOP™. The Omni-Theatre, is Southeast Asia’s first 8K 3D digital theatre with a 23m wide seamless dome screen, is an immersive destination like no other. Snow City is Singapore’s only permanent indoor snow centre offering an Arctic inspired experience at Singapore’s first ice gallery and snow chamber. KidsSTOP™️ - Where every child gets to Imagine, Experience, Discover and Dream - is Singapore’s first children’s science centre offering an enriching experience through purposeful play for children aged 18 months to 8 years old.
+
+ 
+
+For more information, please visit www.science.edu.sg.

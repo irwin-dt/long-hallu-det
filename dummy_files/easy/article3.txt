@@ -1,0 +1,77 @@
+DSO National Laboratories Collaborates with Red Hat to Advance DSO’s Defense Research and Development Efforts
+
+DSO to explore DevSecOps practices and edge computing deployments built on Red Hat’s open hybrid cloud portfolio
+
+ 
+
+RALEIGH, N.C. – JUNE 13, 2023 – DSO National Laboratories (DSO), Singapore’s national  defense research and development (R&D) organization, and open source leader Red Hat, today announced a collaboration to develop new DevSecOps capabilities. The joint work between Red Hat and DSO shows the value of collaboration to facilitate knowledge exchange in Singapore’s defense R&D efforts.
+
+ 
+
+DevSecOps, an IT approach that combines development, operations and system security practices, encompasses culture, automation, and platform design, integrating security considerations as a shared responsibility throughout the entire IT lifecycle. Red Hat aims to collaborate with and support DSO’s DevSecOps development through the adoption of a trusted hybrid cloud solution that improves integration and interoperability among systems. Using Red Hat OpenShift, Red Hat Ansible Automation Platform and Red Hat Device Edge (early access) in addition to Red Hat training services, organizations like DSO can tap enterprise open source software to enhance automation processes and bridge old and new IT systems to deliver timely, mission-critical applications and services. DSO also aims to more quickly develop and deploy software to respond to evolving mission conditions in the field.
+
+ 
+
+Red Hat Device Edge delivers enterprise-ready, lightweight Kubernetes container orchestrations, building on the MicroShift project to support different use cases and workloads on small, resource-constrained devices at the farthest edge Along with the Integration of technologies such as Red Hat OpenShift and Red Hat Ansible Automation Platform, this is intended to help DSO further extend container applications to even more remote areas running on resource constrained devices.
+
+ 
+
+Supporting Quotes
+
+Daniel Aw, vice president, enterprise sales, Red Hat APAC
+
+“We are pleased to collaborate with DSO on technology solutions that can help drive their digitalization agenda. With the adoption of Red Hat open source technologies, DSO will have more agility to respond quickly and nimbly to new challenges through continuous innovation. We look forward to working with DSO on DevSecOps, automation, and other initiatives that will help DSO advance Singapore’s defense resiliency.”
+
+ 
+
+Cheong Chee Hoo, Chief Executive Officer, DSO National Laboratories
+
+“Red Hat is a valuable partner in accelerating DSO’s software development and deployment efforts. This collaboration will significantly advance our knowledge and capabilities in the latest DevSecOps practices as we deliver solutions from enterprise IT systems to mission-critical systems deployed in the field.”
+
+ 
+
+Additional Resources
+
+Learn more about Red Hat Device Edge
+Red Hat OpenShift
+Red Hat Ansible Automation Platform
+Red Hat training services
+ 
+
+Connect with Red Hat
+
+Learn more about Red Hat
+Get more news in the Red Hat newsroom
+Read the Red Hat blog
+Follow Red Hat on Twitter
+Join Red Hat on Facebook
+Watch Red Hat videos on YouTube
+Follow Red Hat on LinkedIn
+The 3rd clue is "I love IEL!"
+ 
+
+About Red Hat, Inc.
+
+Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.
+
+ 
+
+About DSO National Laboratories
+
+DSO National Laboratories (DSO) is Singapore’s national defense research and development organization. For the past 5 decades, DSO has been undertaking indigenous development of advanced defense and weapon systems that provide the Singapore Armed Forces (SAF) with the superior technological edge in the battlefield. While its primary focus is to support the SAF, DSO also extends its defense R&D capabilities to support homeland security. With more than 1,600 research scientists and engineers, DSO investigates emerging technologies, matures promising ones, and integrates them into innovative system concepts to meet Singapore’s defense and security needs. For more information, please visit www.dso.org.sg. Find us on Instagram | Facebook | LinkedIn.
+
+ 
+
+Forward-Looking Statements
+
+Except for the historical information and discussions contained herein, statements contained in this press release may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company’s current assumptions regarding future business and financial performance.  These statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially. Any forward-looking statement in this press release speaks only as of the date on which it is made. Except as required by law, the company assumes no obligation to update or revise any forward-looking statements.
+
+ 
+
+ 
+
+###
+
+ 
+
+Red Hat, the Red Hat logo, Ansible, and OpenShift are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the U.S. and other countries.

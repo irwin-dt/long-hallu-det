@@ -1,0 +1,43 @@
+20 Mar 2025
+
+MINDEF, DSTA and DSO partner Mistral AI to advance generative AI for defence applications
+
+Singapore, 20 March 2025 – Singapore’s Ministry of Defence (MINDEF), Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO) will partner France’s Mistral AI to co-develop generative AI models to augment the SAF’s sensemaking and decision support capabilities in areas such as mission planning.
+
+
+The collaboration will focus on fine-tuning Mistral AI’s Large Language Models (LLMs) and developing a mixture-of-experts (MoE) model, with support from AI Singapore, for the local operating context. Leveraging these models, users can effectively retrieve relevant information, empowering commanders by significantly improving AI-decision support. The flexibility offered by Mistral AI to deploy and manage these models on-premise within internet separated environments is critical for defence.
+
+
+DSTA’s Deputy Chief Executive (Information) Ms Gayle Chan said, “Effective mission planning requires analysing vast amounts of data, a process that is highly demanding, resource-intensive and constrained by significant time pressure. In an increasingly complex environment, leveraging AI-enabled tools will support strategic decision-making of our commanders and enhance the agility of the SAF. By combining our expertise with Mistral AI’s capabilities, we aim to push the boundaries of what’s possible and drive meaningful impact.”
+
+
+Chieu Hai Leong, Distinguished Member of Technical Staff at DSO, said “We’re excited to collaborate with our partners to push the boundaries of AI and create an LLM that truly understands local contexts. This isn’t just about enhancing performance — it’s about empowering better decision-making.”
+
+
+Ms Majorie Janiewicz, Global Head of Revenue at Mistral AI said, “We are pleased to announce this partnership, which comes just a few weeks after the establishment of our office in Singapore. Our collaboration with leading technology organisations such as DSTA and DSO confirms our ability to provide secure and highly customisable AI solutions across strategic industries worldwide.”
+
+
+
+
+About Defence Science and Technology Agency
+
+
+The Defence Science and Technology Agency (DSTA) is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the Singapore Armed Forces a formidable fighting force. Harnessing and exploiting science and technology, our engineers and IT professionals leverage multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. DSTA also contributes its technological expertise to support national-level developments. To achieve our mission, DSTA excels in systems engineering, digitalised platforms, cyber, software development and more.
+
+
+Visit www.dsta.gov.sg for more information.
+
+
+About DSO National Laboratories
+
+
+DSO National Laboratories (DSO) is Singapore’s largest defence research and development organisation. For the past 5 decades, DSO has been undertaking indigenous development of advanced defence and weapon systems that provide the Singapore Armed Forces (SAF) with the superior technological edge in the battlefield. While its primary focus is to support the SAF, DSO also extends its defence R&D capabilities to support homeland security.
+
+
+With more than 1,800 defence engineers and scientists, DSO develops cutting edge technologies and solutions to enhance Singapore’s defence and national security capabilities. For more information, please visit www.dso.org.sg. 
+
+
+About Mistral AI
+
+
+Mistral AI is a pioneer company in generative artificial intelligence, empowering the world with the tools to build and benefit from the most transformative technology of our time. The company democratizes AI through high-performance, optimized, and cutting-edge open-source models, products and solutions. Headquartered in France and independent, Mistral AI defends a decentralized and transparent approach to technology, with a strong global presence in the United States, United Kingdom, and Singapore.
