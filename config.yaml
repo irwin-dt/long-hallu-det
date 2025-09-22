@@ -1,0 +1,4 @@
+model_path: "<your model path here>"
+docs_folder: "dummy_files/hard"
+question_list: "dummy_questions.csv"
+system_prompt: "You are a helpful AI assistant"
